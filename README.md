@@ -21,9 +21,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,linux,sublime" />
 </p>
 
-<div align="left">
-  <h1>🐍 My Contributions 🐍</h1>
-  
-  ![Snake animation](https://github.com/marcanii/marcanii/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
