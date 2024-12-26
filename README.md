@@ -13,7 +13,7 @@
 
 <h2 align="left">💻 Languages & Frameworks:</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,nextjs,vue,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,ts,nestjs,vue,php,mysql" />
 </p>
 
 <h2 align="left">:hammer_and_wrench: Tools I use:</h2>
