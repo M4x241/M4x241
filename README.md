@@ -8,7 +8,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/max-jherzon-rodas-palacios-5b0948254/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/M4x241)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:maxrodaspc@gmail.com)
-# [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/marcanii)
+/// # [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/marcanii)
 </div>
 
 <h2 align="left">💻 Languages & Frameworks:</h2>
