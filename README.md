@@ -3,7 +3,7 @@
 <div align="left">
 <h2>🌐 Socials:</h2>
   
-[<a href="https://facebook.com/marcanii02"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48" width="58"/></a>](https://www.facebook.com/maxjherzon.rodaspalcios)
+[<a href="https://www.facebook.com/maxjherzon.rodaspalcios/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48" width="58"/></a>](https://www.facebook.com/maxjherzon.rodaspalcios)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/maxrodas99/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/max-jherzon-rodas-palacios-5b0948254/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/M4x241)
